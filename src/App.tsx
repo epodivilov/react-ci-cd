@@ -17,7 +17,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>Vite + React</h1>
+      <h1>Our awesome application</h1>
       <div className="card">
         <ErrorBoundary fallback={<p>Ooops, something bad happened</p>}>
           <Suspense fallback={<p>Loading counter...</p>}>
